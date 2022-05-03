@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fyoungbookstest\u002F_nuxt\u002Fstatic\u002F1651540916",layout:"default",error:a,serverRendered:true,routePath:"\u002Fschool-n01",config:{_app:{basePath:"\u002Fyoungbookstest\u002F",assetsPath:"\u002Fyoungbookstest\u002F_nuxt\u002F",cdnURL:a}}}}(null));
